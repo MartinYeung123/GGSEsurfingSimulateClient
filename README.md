@@ -11,4 +11,4 @@ I wish you like my project!
 First use must be set up Wlannacip and Wlanuseip.
 and only one program can be opened at a time, otherwise there will be a bug!
 
-This is the link from PandaAdap/EAuthenticator [PandaAdap/EAuthenticator](https://github.com/PandaAdap/EAuthenticator)
+reference：[PandaAdap/EAuthenticator](https://github.com/PandaAdap/EAuthenticator)
