@@ -1,0 +1,33 @@
+H:\Program Files\stuydy\GGSEsurfing\GGSEsurfing\bin\Debug\GGSEsurfing.exe.config
+H:\Program Files\stuydy\GGSEsurfing\GGSEsurfing\bin\Debug\GGSEsurfing.exe
+H:\Program Files\stuydy\GGSEsurfing\GGSEsurfing\bin\Debug\GGSEsurfing.pdb
+H:\Program Files\stuydy\GGSEsurfing\GGSEsurfing\obj\Debug\GGSEsurfing.Form1.resources
+H:\Program Files\stuydy\GGSEsurfing\GGSEsurfing\obj\Debug\GGSEsurfing.Properties.Resources.resources
+H:\Program Files\stuydy\GGSEsurfing\GGSEsurfing\obj\Debug\GGSEsurfing.csproj.GenerateResource.cache
+H:\Program Files\stuydy\GGSEsurfing\GGSEsurfing\obj\Debug\GGSEsurfing.csproj.CoreCompileInputs.cache
+H:\Program Files\stuydy\GGSEsurfing\GGSEsurfing\obj\Debug\GGSEsurfing.exe
+H:\Program Files\stuydy\GGSEsurfing\GGSEsurfing\obj\Debug\GGSEsurfing.pdb
+H:\Program Files\stuydy\GGSEsurfing\GGSEsurfing\obj\Debug\GGSEsurfing.Form2.resources
+H:\Program Files\stuydy\GGSEsurfing\GGSEsurfing\obj\Debug\GGSEsurfing.csprojAssemblyReference.cache
+H:\Program Files\stuydy\GGSEsurfing - 副本\GGSEsurfing\bin\Debug\GGSEsurfing.exe.config
+H:\Program Files\stuydy\GGSEsurfing - 副本\GGSEsurfing\bin\Debug\GGSEsurfing.exe
+H:\Program Files\stuydy\GGSEsurfing - 副本\GGSEsurfing\bin\Debug\GGSEsurfing.pdb
+H:\Program Files\stuydy\GGSEsurfing - 副本\GGSEsurfing\obj\Debug\GGSEsurfing.csprojAssemblyReference.cache
+H:\Program Files\stuydy\GGSEsurfing - 副本\GGSEsurfing\obj\Debug\GGSEsurfing.Form1.resources
+H:\Program Files\stuydy\GGSEsurfing - 副本\GGSEsurfing\obj\Debug\GGSEsurfing.Form2.resources
+H:\Program Files\stuydy\GGSEsurfing - 副本\GGSEsurfing\obj\Debug\GGSEsurfing.Properties.Resources.resources
+H:\Program Files\stuydy\GGSEsurfing - 副本\GGSEsurfing\obj\Debug\GGSEsurfing.csproj.GenerateResource.cache
+H:\Program Files\stuydy\GGSEsurfing - 副本\GGSEsurfing\obj\Debug\GGSEsurfing.csproj.CoreCompileInputs.cache
+H:\Program Files\stuydy\GGSEsurfing - 副本\GGSEsurfing\obj\Debug\GGSEsurfing.exe
+H:\Program Files\stuydy\GGSEsurfing - 副本\GGSEsurfing\obj\Debug\GGSEsurfing.pdb
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\bin\Debug\GGSEsurfing.exe.config
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\bin\Debug\GGSEsurfing.exe
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\bin\Debug\GGSEsurfing.pdb
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\obj\Debug\GGSEsurfing.csprojAssemblyReference.cache
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\obj\Debug\GGSEsurfing.Form1.resources
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\obj\Debug\GGSEsurfing.Form2.resources
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\obj\Debug\GGSEsurfing.Properties.Resources.resources
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\obj\Debug\GGSEsurfing.csproj.GenerateResource.cache
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\obj\Debug\GGSEsurfing.csproj.CoreCompileInputs.cache
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\obj\Debug\GGSEsurfing.exe
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\obj\Debug\GGSEsurfing.pdb

@@ -1,0 +1,11 @@
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\bin\Release\GGSEsurfing.exe.config
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\bin\Release\GGSEsurfing.exe
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\bin\Release\GGSEsurfing.pdb
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\obj\Release\GGSEsurfing.csprojAssemblyReference.cache
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\obj\Release\GGSEsurfing.Form1.resources
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\obj\Release\GGSEsurfing.Form2.resources
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\obj\Release\GGSEsurfing.Properties.Resources.resources
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\obj\Release\GGSEsurfing.csproj.GenerateResource.cache
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\obj\Release\GGSEsurfing.csproj.CoreCompileInputs.cache
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\obj\Release\GGSEsurfing.exe
+H:\Program Files\stuydy\GGSEsurfing_Test\GGSEsurfing\obj\Release\GGSEsurfing.pdb
